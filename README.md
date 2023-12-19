@@ -1,6 +1,6 @@
 # Contact List App
 
-<img width="1154" alt="image" src="https://drive.google.com/file/d/1PGcJP1C8dmdj5URdhj6Vgp9G9D6Yyk7u/view?usp=drive_link
+<img width="1154" alt="image" src="https://drive.google.com/file/d/1PGcJP1C8dmdj5URdhj6Vgp9G9D6Yyk7u/view
 ">
 
 
